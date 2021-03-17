@@ -1,5 +1,12 @@
+
+
 .App {
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #111;
+  font-family: 'Helvetica','sans-serif';
+  overflow: hidden;
 }
 
 .App-logo {

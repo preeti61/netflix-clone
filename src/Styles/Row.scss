@@ -1,0 +1,38 @@
+.category_row{
+ 
+    height:240px;
+    color: white;
+    text-align: left;
+    padding: 20px;
+    padding-right: 20px;
+    width: 100vw;
+}
+.islargerow{
+     height: 340px;
+}
+.category_row>h1{
+ 
+}
+
+.row_contents{
+    display: flex;
+    overflow-y:hidden;
+    overflow-x: scroll;
+   
+}
+.row_contents::-webkit-scrollbar{
+    display: none;
+}
+.row_poster{
+    height:150px;
+    object-fit: contain;
+    margin:auto 10px;
+}
+
+.islarge{
+    height:300px;
+    width:150px;
+}
+.row_poster:hover{
+  
+}

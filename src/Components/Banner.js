@@ -1,9 +1,9 @@
 import React,{useState,useEffect} from 'react'
 import '../Styles/Banner.scss';
 import img from '../assets/netflix-banner.jpg';
-import ArrowRightIcon from '@material-ui/icons/ArrowRight';
+
 import axios from '../Components/axios';
-import InfoIcon from '@material-ui/icons/Info';
+
 import requests from './request';
 function Banner() {
      
